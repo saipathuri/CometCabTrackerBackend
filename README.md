@@ -6,6 +6,6 @@ Lightweight API for tracking Comet Cabs
 
 Android: WIP -> https://github.com/saipathuri/CometCabTrackerAndroid
 
-iOS: WIP -> Not uploaded yet
+iOS: WIP -> https://github.com/saipathuri/CabTrackeriOS
 
 Web: WIP -> https://github.com/leadsea/CometCabTrackerWebsite
